@@ -1,0 +1,24 @@
+{
+  "name": "rn-custom-chat",
+  "version": "1.0.6",
+  "description": "Custom chat easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namsdai1/rn-custom-chat.git"
+  },
+  "keywords": [
+    "react-native",
+    "chat",
+    "emoji"
+  ],
+  "author": "namsdai1 <namsdai12@gmail.com> (https://github.com/namsdai1)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namsdai1/rn-custom-chat"
+  },
+  "homepage": "https://github.com/namsdai1/rn-custom-chat#readme"
+}
