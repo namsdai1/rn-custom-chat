@@ -29,8 +29,8 @@ More setting
 
 ## Screenshots
 
-<!-- ![preview](https://github.com/namsdai1/rn-custom-chat/blob/main/Image/Screenshot_1665126012.png)-->
-<!-- ![preview](https://github.com/namsdai1/rn-custom-chat/blob/main/Image/Screenshot_1665126057.png)-->
+![Git init](https://github.com/namsdai1/rn-custom-chat/blob/main/Image/Screenshot_1665126012.png)
+![Git init](https://github.com/namsdai1/rn-custom-chat/blob/main/Image/Screenshot_1665126057.png)
 
 ## Usage/Examples
 
